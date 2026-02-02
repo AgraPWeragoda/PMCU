@@ -13,6 +13,8 @@ preferred-citation:
   authors:
     - family-names: Scheipel
       given-names: Tobias
+      email: tobias.scheipel@tugraz.at
+      orcid: 'https://orcid.org/0000-0003-0691-6119'
     - family-names: Beikircher
       given-names: David
     - family-names: Riedl
@@ -23,3 +25,7 @@ preferred-citation:
   start: '1'
   end: '2'
   type: conference-paper
+  identifiers:
+  - type: url
+    value: >-
+      https://www.researchgate.net/publication/391862217_Learning_by_Puzzling_A_Modular_Approach_to_RISC-V_Processor_Design_Education
