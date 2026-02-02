@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+authors:
+  - family-names: Scheipel
+    given-names: Tobias
+  - family-names: Beikircher
+    given-names: David
+  - family-names: Riedl
+    given-names: Florian
+title: 'Microcontroller Design, Lab: HaDes-V'
+license: MIT
+message: Please cite the following works when using this software.
+preferred-citation:
+  authors:
+    - family-names: Scheipel
+      given-names: Tobias
+    - family-names: Beikircher
+      given-names: David
+    - family-names: Riedl
+      given-names: Florian
+  title: "Learning by Puzzling: A Modular Approach to RISC-V Processor Design Education"
+  year: 2025
+  journal: RISC-V Summit Europe 2025
+  start: '1'
+  end: '2'
+  type: conference-paper
